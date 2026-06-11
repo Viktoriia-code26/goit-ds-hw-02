@@ -29,3 +29,4 @@ CREATE TABLE tasks (
         ON DELETE CASCADE
         ON UPDATE CASCADE
 );
+
